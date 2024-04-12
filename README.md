@@ -12,13 +12,19 @@
 ### 🔍 Stalk me here ;)
 <br /> 
 
+<div align="center">
+  
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) &nbsp;
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white) &nbsp;
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white) &nbsp;
 ![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue) &nbsp;
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) &nbsp;
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) &nbsp;
-![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white) 
+![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white) &nbsp; 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+</div>
+
 
 #
 ### 🧰 Languages and Tools
@@ -69,6 +75,8 @@
 
 <br /> 
 
+<div align="center">
+
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) &nbsp;
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) &nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) &nbsp;
@@ -81,14 +89,22 @@
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) &nbsp;
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 
+</div>
 
 #
 
 ### 📊 Stats
 
+<div align="center">
+  
 ![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvaambre&show_icons=true&theme=dark)
 
+</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
 
 #
 
@@ -97,9 +113,33 @@
 
 #
 
-## 🤩 Support
+### 🏆 Ah yes, Digital Trophies 
+
+<br />
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=atharvaambre&theme=onestar)](https://github.com/atharvaambre/github-profile-trophy)
+
+</div>
+
+#
+
+### 🤩 Support
 
 💙 If you like my contributions, give it a ⭐ and share it with friends!
 
 [![Sponsor with Github](https://custom-icon-badges.demolab.com/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/sponsors/atharvaambre "Sponsor me on GitHub")
 [![Buy me a coffee](https://custom-icon-badges.demolab.com/badge/-Buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/atharvaambre "Buy me a coffee")
+
+#
+
+### 😤 Quotes to live by (Oh! So you made it to the end?)
+
+<br />
+
+<div align="center">
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
